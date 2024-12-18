@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Ambientes
+comment0.text=\r\n\ Essa\ \u00E9\ a\ superclasse\ Ambiente,\ que\ conter\u00E1\ todos\ os\ ambientes\ do\ jogo.\ \r\n\ Ela\ possui\ os\ metodos\ que\ configuram\ as\ paredes\ nos\ mapas.\r\n\ Futuramente\ possuir\u00E1\ quaisquer\ outros\ m\u00E9todos\ necess\u00E1rios\ em\ todas\ as\ salas\ do\ jogo.\r\n\ \r\n\ @author\ Melissa\ de\ Carvalho\ V.\ Real,\ Maria\ Luiza\ Madeira\ e\ Guilherme\ Alexandre\ Cunha\ SIlva\ \r\n\ @version\ V1\r\n
+comment1.params=width\ height\ cellSize
+comment1.target=Ambientes(int,\ int,\ int)
+comment2.params=objetoInicial\ objetoFinal\ xInicial\ yInicial\ direcaoParaParedeIr\ imagem
+comment2.target=void\ criadorParedesLongas(int,\ int,\ int,\ int,\ char,\ greenfoot.GreenfootImage)
+comment3.params=objetoInicial\ objetoFinal\ xInicial\ yInicial\ imagemBase\ imagemTopo
+comment3.target=void\ criarParedeHorizontal(int,\ int,\ int,\ int,\ greenfoot.GreenfootImage,\ greenfoot.GreenfootImage)
+numComments=4

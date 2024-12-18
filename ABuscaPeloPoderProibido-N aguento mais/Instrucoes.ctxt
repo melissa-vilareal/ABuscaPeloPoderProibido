@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Instrucoes
+comment0.text=\r\n\ Classe\ Instrucoes\:\ Exibe\ as\ informa\u00E7\u00F5es\ sobre\ como\ jogar\ o\ jogo.\r\n\ Cont\u00E9m\ o\ enredo,\ controles\ e\ objetivos\ de\ forma\ organizada.\r\n\ \r\n\ @author\ Melissa\ de\ Carvalho\ V.\ Real,\ Maria\ Luiza\ Madeira\ e\ Guilherme\ Alexandre\ Cunha\ Silva\r\n\ @version\ V1\r\n
+comment1.params=
+comment1.target=Instrucoes()
+comment2.params=
+comment2.target=void\ mostrarInstrucoes()
+comment2.text=\r\n\ Mostra\ o\ conte\u00FAdo\ de\ "Como\ Jogar"\ na\ tela.\r\n
+comment3.params=texto\ x\ y
+comment3.target=void\ exibirTextoQuebrado(java.lang.String,\ int,\ int)
+comment3.text=\r\n\ Divide\ o\ texto\ em\ m\u00FAltiplas\ linhas\ e\ exibe\ na\ tela.\r\n\ @param\ texto\ O\ texto\ a\ ser\ exibido.\r\n\ @param\ x\ Posi\u00E7\u00E3o\ X\ na\ tela.\r\n\ @param\ y\ Posi\u00E7\u00E3o\ Y\ na\ tela.\r\n
+comment4.params=
+comment4.target=void\ act()
+comment5.params=
+comment5.target=void\ voltarMenu()
+numComments=6

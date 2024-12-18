@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Botao
+comment1.params=normalImagePath\ hoverImagePath\ destino
+comment1.target=Botao(java.lang.String,\ java.lang.String,\ greenfoot.World)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

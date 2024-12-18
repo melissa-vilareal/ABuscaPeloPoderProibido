@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=JogadorProjetado
+comment1.params=
+comment1.target=JogadorProjetado()
+comment2.params=x\ y
+comment2.target=void\ updatePosition(int,\ int)
+numComments=3

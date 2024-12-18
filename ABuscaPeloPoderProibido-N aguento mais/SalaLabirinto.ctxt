@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=SalaLabirinto
+comment0.text=\r\n\ Essa\ \u00E9\ a\ nossa\ primeira\ sala\ de\ desafios.\ no\ total\ ser\u00E3o\ 3,\ \r\n\ cada\ uma\ com\ a\ proposta\ diferente.\r\n\ \r\n\ @author\ Melissa\ de\ Carvalho\ V.\ Real,\ Maria\ Luiza\ Madeira\ e\ Guilherme\ Alexandre\ Cunha\ SIlva\ \r\n\ @version\ V1\r\n
+comment1.params=
+comment1.target=SalaLabirinto()
+comment2.params=
+comment2.target=void\ prepare()
+comment2.text=\r\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\r\n\ That\ is\:\ create\ the\ initial\ objects\ and\ add\ them\ to\ the\ world.\r\n
+comment3.params=
+comment3.target=void\ act()
+numComments=4
